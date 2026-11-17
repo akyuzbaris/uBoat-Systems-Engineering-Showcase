@@ -1,0 +1,7 @@
+<div class="document">
+<ol class="arabic simple">
+<li>Initialize nominal submerged mission profile in HIL simulation.</li>
+<li>Disable acoustic modem heartbeat packets.</li>
+<li>Measure elapsed time until ascent actuator command is triggered.</li>
+</ol>
+</div>
